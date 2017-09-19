@@ -4,7 +4,7 @@
 
 ## Tasks
 
-- [ ] 1. Ознакомиться со ссылками учебного материала
+- [x] 1. Ознакомиться со ссылками учебного материала
 - [ ] 2. Выполнить инструкцию учебного материала
 - [ ] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
  
@@ -52,26 +52,26 @@ $ gistup -m "lab${LAB_NUMBER}"
 
 ### Unix commands
 
-- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
-- [cd](https://en.wikipedia.org/wiki/Cd_(command))
-- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
-- [echo](https://en.wikipedia.org/wiki/Echo_(command))
-- [env](https://en.wikipedia.org/wiki/Env_(shell))
-- [ex](https://en.wikipedia.org/wiki/Ex_(editor))
-- [file](https://en.wikipedia.org/wiki/File_(command))
-- [find](https://en.wikipedia.org/wiki/Find)
-- [ls](https://en.wikipedia.org/wiki/Ls)
-- [man](https://en.wikipedia.org/wiki/Man_page)
-- [mkdir](https://en.wikipedia.org/wiki/Mkdir)
-- [mv](https://en.wikipedia.org/wiki/Mv)
-- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
-- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
-- [pwd](https://en.wikipedia.org/wiki/Pwd)
-- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
-- [sed](https://en.wikipedia.org/wiki/Sed)
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
+- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))//Стандартная утилита Unix, архиватор, не использующий сжатия данных. В настоящее время используется главным образом для создания и обновления статических библиотек.
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))//Cтандартная утилита Unix, которая последовательно считывает и выводит файлы, объединяя их в единый поток.
+- [cd](https://en.wikipedia.org/wiki/Cd_(command))//Команда командной строки для изменения текущего рабочего каталога в Unix, DOS, OS/2, AmigaOS, Windows и Linux.
+- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))//Команда UNIX для копирования файлов и каталогов.
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))//Утилита командной строки Unix для выборки отдельных полей из строк файла.
+- [echo](https://en.wikipedia.org/wiki/Echo_(command))//Команда в DOS, OS/2, Microsoft Windows, Unix и Unix-подобных операционных системах, которая выводит строки, которые передаются в качестве аргументов.
+- [env](https://en.wikipedia.org/wiki/Env_(shell))//Команда для Unix и Unix-подобных операционных систем, исполняющая команду с изменением окружения.
+- [ex](https://en.wikipedia.org/wiki/Ex_(editor))//Расширение редактора ed, наиболее значительным добавлением к которому является возможность экранного редактирования, имеет ряд возможностей для одновременной работы с несколькими файлами. 
+- [file](https://en.wikipedia.org/wiki/File_(command))//
+- [find](https://en.wikipedia.org/wiki/Find)//
+- [ls](https://en.wikipedia.org/wiki/Ls)//
+- [man](https://en.wikipedia.org/wiki/Man_page)//
+- [mkdir](https://en.wikipedia.org/wiki/Mkdir)//
+- [mv](https://en.wikipedia.org/wiki/Mv)//
+- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))//
+- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))//
+- [pwd](https://en.wikipedia.org/wiki/Pwd)//
+- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))//
+- [sed](https://en.wikipedia.org/wiki/Sed)//
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))//
 
 ### Package Managers
 
