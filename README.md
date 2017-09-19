@@ -84,7 +84,7 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [curl](https://www.gitbook.com/book/bagder/everything-curl/details) - свободная кроссплатформенная служебная программа командной строки, позволяющая взаимодействовать с множеством различных серверов по множеству различных протоколов с синтаксисом URL.
 - [wget](https://www.gnu.org/software/wget/manual/wget.pdf) - свободная неинтерактивная консольная программа для загрузки файлов по сети.
 - [clang](https://clang.llvm.org) - является фронтендом для языков программирования C, C++, Objective-C, Objective-C++ и OpenCL C
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html) - свободная Unix-подобная операционная система
 - [make](https://en.wikipedia.org/wiki/Make_(software)) - утилита, автоматизирующая процесс преобразования файлов из одной формы в другую.
 - [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) - команда, которая открывает файл (каталог или URL) так же, как двойной щелчек мыши по иконке.
 - [openssl](https://www.openssl.org) -  криптографический пакет с открытым исходным кодом для работы с SSL/TLS. Позволяет создавать ключи RSA, DH, DSA и сертификаты X.509, подписывать их, формировать CSR и CRT. Также имеется возможность шифрования данных и тестирования SSL/TLS соединений.
