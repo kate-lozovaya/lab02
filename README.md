@@ -75,7 +75,7 @@ $ gistup -m "lab${LAB_NUMBER}"
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) - набор утилит для управления программными пакетами в операционных системах основанных на Debian | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru) - менеджер пакетов Fedora, заменен на dnf  
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru) - набор утилит для управления программными пакетами в операционных системах
 - [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh) - программное обеспечение для управления пакетами
 - [npm](https://docs.npmjs.com) - менеджер пакетов, входящий в состав Node.js
 
