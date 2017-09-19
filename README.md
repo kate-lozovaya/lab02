@@ -5,8 +5,8 @@
 ## Tasks
 
 - [x] 1. Ознакомиться со ссылками учебного материала
-- [ ] 2. Выполнить инструкцию учебного материала
-- [ ] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
+- [x] 2. Выполнить инструкцию учебного материала
+- [x] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
  
 ## Tutorial
 
@@ -75,22 +75,22 @@ $ gistup -m "lab${LAB_NUMBER}"
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
-- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
-- [npm](https://docs.npmjs.com)
+- [apt](http://help.ubuntu.ru/wiki/apt) - набор утилит для управления программными пакетами в операционных системах основанных на Debian | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru) - менеджер пакетов Fedora, заменен на dnf  
+- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh) - программное обеспечение для управления пакетами
+- [npm](https://docs.npmjs.com) - менеджер пакетов, входящий в состав Node.js
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
-- [clang](https://clang.llvm.org)
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details) - свободная кроссплатформенная служебная программа командной строки, позволяющая взаимодействовать с множеством различных серверов по множеству различных протоколов с синтаксисом URL.
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf) - свободная неинтерактивная консольная программа для загрузки файлов по сети.
+- [clang](https://clang.llvm.org) - является фронтендом для языков программирования C, C++, Objective-C, Objective-C++ и OpenCL C
 - [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
-- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
+- [make](https://en.wikipedia.org/wiki/Make_(software)) - утилита, автоматизирующая процесс преобразования файлов из одной формы в другую.
+- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) - команда, которая открывает файл (каталог или URL) так же, как двойной щелчек мыши по иконке.
+- [openssl](https://www.openssl.org) -  криптографический пакет с открытым исходным кодом для работы с SSL/TLS. Позволяет создавать ключи RSA, DH, DSA и сертификаты X.509, подписывать их, формировать CSR и CRT. Также имеется возможность шифрования данных и тестирования SSL/TLS соединений.
+- [nano](https://www.nano-editor.org) - консольный текстовый редактор для UNIX и Unix-подобных операционных систем, основанный на библиотеке curses и распространяемый под лицензией GNU GPL.
+- [tree](https://linux.die.net/man/1/tree) - список содержимого каталогов в древовидном виде.
+- [vim](http://www.vim.org) - настраиваемый текстовый редактор, созданный на основе более старого vi, чтобы сделать создание и изменение любого текста эффективным.
 
 ```
 Copyright (c) 2017 Братья Вершинины
